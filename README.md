@@ -2,9 +2,9 @@
 # A small GPS Tracker and speed indicator for RaspberryPi
 
 # HARDWARE:
-# - Raspberry Pi (this was tested with RPi 2 only...for now)
-# - WaveShare 3" LCD Screen
-# - Adafruit Ultimate GPS (Initially I've used UP-501 GPS Receiver but it was an older chip...times change and so should we!)
+ - Raspberry Pi (this was tested with RPi 2 only...for now)
+ - WaveShare 3" LCD Screen
+ - Adafruit Ultimate GPS (Initially I've used UP-501 GPS Receiver but it was an older chip...times change and so should we!)
 
 # HISTORY:
 # This project was inspired by my desire to advance in sailing. I needed something that would tell me the speed since that's a good
