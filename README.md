@@ -1,7 +1,3 @@
-pre, code {
-font size: 0.5em
-}
-
 # RPi_GPS
 # A small GPS Tracker and speed indicator for RaspberryPi
 
