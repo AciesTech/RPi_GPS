@@ -20,20 +20,20 @@
 
 # THE HOW-TO's
 
-* To run this software you will need "ncurses" library. 
+0. To run this software you will need "ncurses" library. 
 ```
 sudo apt-get install libncurses-dev
 ```
 Hit TAB after ...curses to get the latest package.
 
-* Download the .cpp and the .h files and place them all in the directory of your choosing.
+1. Download the .cpp and the .h files and place them all in the directory of your choosing.
   
-* To compile open Terminal and do the following:
+2. Compile by opening Terminal and doing the following:
 ```
 cd "path_to_your_folder"
 g++ *.cpp -o myTinyGPS.out -lncurses
 ```
-You may substitude "myTinyGPS.out" with "any_name.out" - this will be your executable.
+NOTE: You may substitude "myTinyGPS.out" with "any_name.out" - this will be your executable.
 
 # To run:
 ```
